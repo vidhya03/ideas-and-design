@@ -1,5 +1,5 @@
 # Crack – the – idea
-====================
+
 
 Some times when we discuss an idea, it scattered into many forms unless if we not brainstorm in a right way  
 This page lists the goals and accomplishment.
