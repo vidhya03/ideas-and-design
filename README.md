@@ -13,6 +13,7 @@ This page lists the goals and accomplishment.
 ### Suggestion
  - Use https://www.draw.io/ for mockup desgin
  - https://stackedit.io/ for uml desgin
+ - For timer http://hilios.github.io/jQuery.countdown/
  
 
 ### Features of - 100DaysOfCode github app
