@@ -6,6 +6,8 @@ This page lists the goals and accomplishment.
 
 # Todo
 - [ ] prototype a 100DaysOfCode github app using design thinking
+- [ ] Automatically suggest your next commit time 
+- [ ] Notification to remind the user about the commit
 
 
 # 100DaysOfCode
@@ -21,7 +23,7 @@ This page lists the goals and accomplishment.
  - Clock for next challenge time with ticking
  - Intelligently analyze the user commit history 
  - Draw a analyze report using chartjs
- 
+ - 
 
 
 
