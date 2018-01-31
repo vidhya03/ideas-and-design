@@ -8,6 +8,7 @@ This page lists the goals and accomplishment.
 - [ ] prototype a 100DaysOfCode github app using design thinking
 - [ ] Automatically suggest your next commit time 
 - [ ] Notification to remind the user about the commit
+- [ ] Leaderboard like :cake: for 25 days, 50 days and soon
 
 
 # 100DaysOfCode
