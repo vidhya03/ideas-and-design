@@ -9,6 +9,11 @@ This page lists the goals and accomplishment.
 - [ ] Automatically suggest your next commit time 
 - [ ] Notification to remind the user about the commit
 - [ ] Leaderboard like :star: for 25 days, :star::star: 50 days , :star::star::star: 75 days and soon
+- [ ] Suggestion about #100days0fcode when user checks his/her score
+- [ ] Inpage updates to enable user to input about their readings, tutorials, with tags and pictures
+- [ ] An annimation at the footer to point his milestone :triangular_flag_on_post: with motivational messages 
+- [ ] Sparkling Flower / snow / fire to decorate the page to show the mood :full_moon_with_face:
+
 
 
 # 100DaysOfCode
