@@ -13,6 +13,10 @@ This page lists the goals and accomplishment.
 - [ ] Inpage updates to enable user to input about their readings, tutorials, with tags and pictures
 - [ ] An annimation at the footer to point his milestone :triangular_flag_on_post: with motivational messages 
 - [ ] Sparkling Flower / snow / fire to decorate the page to show the mood :full_moon_with_face:
+- [ ] Auto suggestion on fist login i.e how to use this app. For example below waffle.io shows
+       ![auto suggest based on like this](100daysofcode/resources/waffle-autosuggest-based-on-usage.PNG) 
+
+
 
 
 
@@ -23,6 +27,7 @@ This page lists the goals and accomplishment.
  - https://stackedit.io/ for uml desgin
  - For timer http://hilios.github.io/jQuery.countdown/
  - Github activity stream https://github.com/caseyscarborough/github-activity , [live demo](http://caseyscarborough.com/github-activity/) 
+ - Use [waffle.io](https://waffle.io/) for project management
  
 
 ### Features of - 100DaysOfCode github app
