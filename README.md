@@ -14,11 +14,9 @@ This page lists the goals and accomplishment.
 - [ ] An annimation at the footer to point his milestone :triangular_flag_on_post: with motivational messages 
 - [ ] Sparkling Flower / snow / fire to decorate the page to show the mood :full_moon_with_face:
 - [ ] Auto suggestion on fist login i.e how to use this app. For example below waffle.io shows
-       ![auto suggest based on like this](100daysofcode/resources/waffle-autosuggest-based-on-usage.PNG) 
+       <img src="100daysofcode/resources/waffle-autosuggest-based-on-usage.PNG" width="400" height="400">
 - [ ] And 100days0fcode badge similar to waffle 
 	   ![badge with multiple status ](100daysofcode/resources/waffle-badge-with-status.PNG)
-
-
 
 
 
